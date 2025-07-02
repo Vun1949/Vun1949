@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Vun1949&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vun1949&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
