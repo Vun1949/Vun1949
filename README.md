@@ -1,14 +1,22 @@
 <div align="center">
-  <img src="profi.gif" alt="Profile GIF" width="300" height="300">
+  <img src="main.gif" alt="Profile GIF" width="300" height="300">
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Vu</h1>
 <h3 align="center">Backend developer</h3>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vun1949&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vun1949&theme=radical" alt="GitHub Streak" />
+  <img src="phu.gif" alt="Phu GIF" width="200" height="200" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Vun1949&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
 
 - 💼 I'm currently working as a freelance backend developer
 
@@ -16,16 +24,22 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vun1949](https://github.com/Vun1949)
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nguyen van vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen van vu" height="30" width="40" /></a>
 <a href="https://discord.gg/vun94962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vun94962" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">📫 Contact me via:</h3>
 <p align="left">
 📧 Email: <a href="mailto:vun194962@gmail.com">vun194962@gmail.com</a>
 </p>
+
+---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
