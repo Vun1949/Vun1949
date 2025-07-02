@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="main.gif" alt="Profile GIF" width="300" height="300">
+  <img src="main.gif" alt="Profile GIF" width="900" height="300">
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Vu</h1>
@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vun1949&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="phu.gif" alt="Phu GIF" width="600" height="200" />
+  <img src="phu.gif" alt="Phu GIF" width="200" height="200" />
 </div>
 
 <div align="center">
